@@ -1,0 +1,15 @@
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\SendMessage\SendMessage\bin\Debug\SendMessage.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\bin\Debug\SendMessage.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\bin\Debug\SendMessage.exe
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\bin\Debug\SendMessage.pdb
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\SendMessage.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\MainWindow.g.cs
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\App.g.cs
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\SendMessage_MarkupCompile.cache
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\SendMessage_MarkupCompile.lref
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\MainWindow.baml
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\SendMessage.g.resources
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\SendMessage.Properties.Resources.resources
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\SendMessage.csproj.GenerateResource.Cache
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\SendMessage.exe
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\MessageApp\obj\Debug\SendMessage.pdb
